@@ -6,7 +6,9 @@ Je suis un développeur mobile étudiant chez OpenClassrooms, spécialisé dans 
 
 ## Mes compétences 🚀
 
-- Développement mobile avec Swift  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />  et Flutter  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+
+- Développement mobile avec Swift et Flutter
 - Connaissances en programmation et réseaux obtenues grâce à mon BTS SNIR
 - Esprit d'équipe et communication
 
