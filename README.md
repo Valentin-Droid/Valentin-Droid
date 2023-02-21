@@ -14,8 +14,8 @@ Je suis un développeur mobile étudiant chez OpenClassrooms, spécialisé dans 
 
 - [Portfolio](https://github.com/Valentin-Droid/Portfolio) : Application IOS pour mettre en avant mes compétences.
 
-N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet !
-
 ## GitHub Stats ⭐️
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valentin-Droid)](https://github.com/anuraghazra/github-readme-stats)
+
+N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet !
