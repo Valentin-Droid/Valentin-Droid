@@ -16,5 +16,6 @@ Je suis un développeur mobile étudiant chez OpenClassrooms, spécialisé dans 
 
 N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet !
 
+## GitHub Stats ⭐️
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valentin-Droid)](https://github.com/anuraghazra/github-readme-stats)
