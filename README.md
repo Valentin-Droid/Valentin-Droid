@@ -1,16 +1,17 @@
-### Hi there 👋
+# Bienvenue sur mon profil GitHub ! 👋
 
-<!--
-**Valentin-Droid/Valentin-Droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A propos de moi 🤔
 
-Here are some ideas to get you started:
+Je suis un développeur mobile étudiant chez OpenClassrooms, spécialisé dans Swift et Flutter. Je suis passionné par les dernières tendances de développement et j'aime travailler en équipe. En dehors de mes projets de développement, je suis également un joueur de rugby.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mes compétences 🚀
+
+- Développement mobile avec Swift et Flutter 
+- Connaissances en réseaux et programmation obtenues grâce à mon BTS SNIR
+- Esprit d'équipe et communication
+
+## Mes projets 🔨
+
+- [Portfolio](https://github.com/Valentin-Droid/Portfolio) : Application IOS pour mettre en avant mes compétences.
+
+N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet !
