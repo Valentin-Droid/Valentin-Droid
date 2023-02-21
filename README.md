@@ -2,7 +2,11 @@
 
 ## A propos de moi 🤔
 
-Je suis un développeur mobile étudiant chez OpenClassrooms, spécialisé dans Swift et Flutter. Je suis passionné par les dernières tendances de développement et j'aime travailler en équipe. En dehors de mes projets de développement, je suis également un joueur de rugby.
+Je suis un étudiant en informatique passionné par le développement d'applications mobiles. J'ai obtenu un BTS SNIR, qui m'a permis d'acquérir des connaissances en matière de réseaux et de programmation. Actuellement, je poursuis ma formation en développement d'applications iOS auprès d'OpenClassrooms.
+
+Je me spécialise en particulier dans le développement d'applications mobiles avec Swift et Flutter, qui sont mes langages préférés. Je suis constamment en train de me tenir au courant des dernières tendances et des nouvelles technologies liées au développement d'applications mobiles.
+
+En dehors de mes études et de mes projets, je suis joueur de rugby, ce qui me donne un grand sens de l'esprit d'équipe. J'espère continuer à me développer en tant que développeur mobile et à contribuer à la création d'applications mobiles innovantes et de qualité.
 
 ## Mes compétences 🚀
 
