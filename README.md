@@ -17,6 +17,8 @@ En dehors de mes études et de mes projets, je suis joueur de rugby, ce qui me d
 ## Mes projets 🔨
 
 - [Portfolio](https://github.com/Valentin-Droid/Portfolio) : Application IOS pour mettre en avant mes compétences.
+- [Finance-Tracker](https://github.com/Valentin-Droid/Finance-Tracker) : Application IOS de gestions des finances.
+- [MyMovieDB](https://github.com/Valentin-Droid/MyMovieDB) : Application IOS de recherche des films et séries.
 
 ## GitHub Stats ⭐️
 
