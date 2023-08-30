@@ -2,7 +2,7 @@
 
 ## A propos de moi 🤔
 
-Je suis un étudiant en informatique passionné par le développement d'applications mobiles. J'ai obtenu un BTS SNIR, qui m'a permis d'acquérir des connaissances en matière de réseaux et de programmation. Actuellement, je poursuis ma formation en développement d'applications iOS auprès d'OpenClassrooms.
+Je suis un étudiant en informatique passionné par le développement d'applications mobiles. J'ai obtenu un BTS SNIR, qui m'a permis d'acquérir des connaissances en matière de réseaux et de programmation. Actuellement, je poursuis ma formation en développement Web auprès de l'ICSSA.
 
 Je me spécialise en particulier dans le développement d'applications mobiles avec Swift et Flutter, qui sont mes langages préférés. Je suis constamment en train de me tenir au courant des dernières tendances et des nouvelles technologies liées au développement d'applications mobiles.
 
