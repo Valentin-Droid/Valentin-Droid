@@ -10,7 +10,7 @@ En dehors de mes études et de mes projets, je suis joueur de rugby, ce qui me d
 
 ## Mes compétences 🚀
 
-- Développement mobile avec Swift, Flutter et Kotlin  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /><img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /><img width="25px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AKotlin_Icon_2021.svg&psig=AOvVaw2ZX2ncEhelEJD58J4JkNjS&ust=1697554816290000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJj2o9Dq-oEDFQAAAAAdAAAAABAE" />
+- Développement mobile avec Swift, Flutter et Kotlin  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /><img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /><img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Kotlin_Icon_2021.svg" />
 - Connaissances en programmation et réseaux obtenues grâce à mon BTS SNIR
 - Esprit d'équipe et communication
 
