@@ -16,7 +16,7 @@ En dehors de mes études et de mes projets, je suis joueur de rugby, ce qui me d
 
 ## Mes projets 🔨
 
-- [Portfolio](https://github.com/Valentin-Droid/Portfolio) : Application IOS pour mettre en avant mes compétences.
+- [NBA-Teams-API-Platform](https://github.com/Valentin-Droid/NBA-Teams-API-Platform) : Projet permettant de consulter des informations sur les équipes NBA. Utilisation de Next.js et Node.js.
 - [Finance-Tracker](https://github.com/Valentin-Droid/Finance-Tracker) : Application IOS de gestions des finances.
 - [MyMovieDB](https://github.com/Valentin-Droid/MyMovieDB) : Application IOS de recherche des films et séries.
 
