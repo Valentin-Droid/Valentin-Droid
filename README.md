@@ -77,7 +77,7 @@ Application de génération de cartes mémoire pour l'apprentissage
 
 - 🌐 **Malt** : [malt.fr/profile/valentindrelon](https://www.malt.fr/profile/valentindrelon)
 - 💼 **LinkedIn** : [linkedin.com/in/valentin-drelon](https://www.linkedin.com/in/valentin-drelon/)
-- 📧 **Email** : [valentin.drelon@icloud.com]
+- 📧 **Email** : valentin.drelon@icloud.com
 
 ---
 
