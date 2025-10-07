@@ -51,7 +51,7 @@ En dehors du développement, je suis joueur de rugby 🏉, ce qui renforce mon e
 Application de génération de cartes mémoire pour l'apprentissage
 - **Stack** : React, Next.js, TypeScript
 - **Features** : Génération automatique, interface moderne et intuitive
-- **[Voir le site en ligne](https://flash-cards-generator-eight.vercel.app/)** | **[Code source](lien-github)**
+- **[Voir le site en ligne](https://flashcardgenerator.net/)** | **[Code source](lien-github)**
 
 ---
 
