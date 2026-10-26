@@ -54,4 +54,4 @@ sur iOS/SwiftUI, Flutter/Dart et TypeScript/Next.js.
 ## 📬 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentin%20Drelon-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/valentin-drelon/)
-[![Email](https://img.shields.io/badge/Email-valentin.drelon%40icloud.com-EA4335?style=flat&logo=gmail)](mailto:valentin.drelon@icloud.com)
+[![Contact](https://img.shields.io/badge/Contact-valentin.business-111111?style=flat)](https://valentin.business/hire-me)
