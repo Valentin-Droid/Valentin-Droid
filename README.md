@@ -11,7 +11,7 @@ Développeur web & mobile : React, Next.js, React Native / Expo, TypeScript, Nod
 
 - **Vigie** : application iPhone native pour suivre l'état de la prod de sites et d'applications, [publiée sur l'App Store](https://apps.apple.com/fr/app/vigie-%C3%A9tat-de-la-prod/id6830607044).
 - **AthleteFlow** : plateforme web et mobile en TypeScript, avec Next.js, Expo et MongoDB. Dépôt privé.
-- **Dans le Mille / Bang On** : application de fléchettes React Native / Expo. Dépôt privé.
+- **Dans le Mille / Bang On** : application de fléchettes React Native / Expo, publiée sur l'[App Store](https://apps.apple.com/fr/app/dans-le-mille-fl%C3%A9chettes/id6818084287) et sur [Google Play](https://play.google.com/store/apps/details?id=com.valentindrelon.bangon). Dépôt privé.
 - **[valentin.business](https://valentin.business)** : mon site, développé avec Next.js.
 
 ## Stack
